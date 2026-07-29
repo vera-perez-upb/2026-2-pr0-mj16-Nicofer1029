@@ -1,0 +1,25 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1
+vPrueba
+!i10b 1
+!s100 0OjE>T:NjlRkIc2ZO>CjQ2
+IWTMDnaJmBReUd7eG@O1OT0
+VChQ4LLCRZ03@m3N5DDPO71
+dC:\altera\13.1\Proyecto_1\simulation
+w1785192422
+8C:/altera/13.1/Proyecto_1/Prueba.v
+FC:/altera/13.1/Proyecto_1/Prueba.v
+L0 1
+OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1785193397.243000
+!s107 C:/altera/13.1/Proyecto_1/Prueba.v|
+!s90 -reportprogress|300|-work|work|C:/altera/13.1/Proyecto_1/Prueba.v|
+!s101 -O0
+o-work work -O0
+n@prueba
